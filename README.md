@@ -20,8 +20,8 @@ Built for **real use cases**, not demos.
 
 ## 👨‍💻 About
 
-Built by **Jemin and Hasan**  
-We create **custom n8n automations** for individuals and businesses.
+Built by **Jemin**  
+I create **custom n8n automations** for individuals and businesses.
 
 📩 Open an issue or DM for customization / freelance work.
 
